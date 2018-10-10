@@ -1,0 +1,25 @@
+{
+  "name": "amfi-api",
+  "version": "1.0.0",
+  "description": "AMFI is a nodal association of mutual funds across India. AMFI provides useful knowledge and insights regarding mutual funds and investments.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmruthPillai/AMFI-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmruthPillai/AMFI-API/issues"
+  },
+  "homepage": "https://github.com/AmruthPillai/AMFI-API#readme"
+}
