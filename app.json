@@ -1,6 +1,6 @@
 {
     "name": "AMFI API",
-    "description": "AMFI is a nodal association of mutual funds across India. AMFI provides useful knowledge and insights regarding mutual funds and investments.",
+    "description": "AMFI is a nodal association of mutual funds across India.",
     "repository": "https://github.com/AmruthPillai/AMFI-API",
     "keywords": ["amfi", "india", "mutual funds", "nodejs", "express"]
 }
