@@ -5,6 +5,8 @@
 
 AMFI is a nodal association of mutual funds across India. AMFI provides useful knowledge and insights regarding mutual funds and investments. For more information, visit https://www.amfiindia.com/.
 
+**Demo:** https://amfi-api.herokuapp.com/
+
 This is a **Node.js + Express** API that tries to scrape what it can out of the AMFI daily text based data sources.  
 The endpoints used for the daily NAV values are: https://www.amfiindia.com/spages/NAVAll.txt  
 and for the historical NAV values: http://portal.amfiindia.com/DownloadNAVHistoryReport_Po.aspx?tp=1&frmdt=01-Oct-2018&todt=03-Oct-2018
