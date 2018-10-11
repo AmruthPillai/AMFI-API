@@ -5,7 +5,7 @@ var api = require('./api')
 
 app.use('/', api)
 
-var server = app.listen(8081, function () {
+var server = app.listen(process.env.PORT || 8080, function () {
   var host = server.address().address
   var port = server.address().port
 
