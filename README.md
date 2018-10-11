@@ -1,4 +1,8 @@
 # AMFI API
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 AMFI is a nodal association of mutual funds across India. AMFI provides useful knowledge and insights regarding mutual funds and investments. For more information, visit https://www.amfiindia.com/.
 
 This is a **Node.js + Express** API that tries to scrape what it can out of the AMFI daily text based data sources.  
